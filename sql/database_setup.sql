@@ -1,0 +1,3 @@
+-- Stores database-related files for Task 3.
+-- database_setup.sql: Defines the schema for Banks and Reviews tables.
+-- bank_reviews.dmp: Contains the SQL dump of the populated database for backup and reproducibility.
