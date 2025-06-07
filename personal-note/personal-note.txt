@@ -1,0 +1,44 @@
+A Real-World Data Engineering Challenge: Scraping, Analyzing, and Visualizing Google Play Store Reviews
+
+  
+
+  Tasks
+    1. scrape app reviews, 
+    2. analyze sentiments 
+    3. create themes, 
+    4. visualize insights
+
+  Dataset
+    Data: Google Play Store for three Ethiopian banks:
+      Commercial Bank of Ethiopia (CBE)
+      Bank of Abyssinia (BOA)
+      Dashen Bank
+
+  Tools used
+
+  Objective
+    Scrape user reviews from the Google Play Store.
+    Analyze sentiment (positive/negative/neutral) and extract themes (e.g., "bugs", "UI").
+    Identify satisfaction drivers (e.g., speed) and pain points (e.g., crashes).
+    Store cleaned review data in a Oracle database.
+    Deliver a report with visualizations and actionable recommendations.
+
+  Dataset Overview
+      Review Text: User feedback (e.g., “Love the UI, but it crashes often”).
+      Rating: 1–5 stars.
+      Date: Posting date (time optional).
+      Bank/App Name: E.g., “Commercial bank of Ethiopia Mobile”.
+      Source: Google Play.
+
+  Minimum: 
+    -400 reviews per bank (1200 total). If scraping is limited, 
+
+  task-1- Data Collection and Preprocessing
+    git setup
+      -create github repo
+      -clone repo
+      -.gitignore
+      -create .env file
+      -create requirements.txt
+      -task-1 branch
+    
