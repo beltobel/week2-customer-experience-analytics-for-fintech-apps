@@ -1,0 +1,6 @@
+personal-note/
+data/
+*.dmp
+.venv
+__pycache__/
+*.pyc
