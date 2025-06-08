@@ -1,6 +1,5 @@
 personal-note/
 data/
-scripts/data/
 *.dmp
 .venv
 __pycache__/
