@@ -31,6 +31,7 @@ The processed data was inserted into an Oracle database with two tables: Banks a
 
 ## Visualization
 Visualizations were generated  with pandas, matplotlib, and seaborn. Key outputs included:
+
 •	Sentiment Distribution by Bank: 
 
 •	Rating Distribution by Bank:  
